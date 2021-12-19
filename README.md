@@ -19,7 +19,23 @@ Hell Sir, before going to start the approach what you had given during the inter
 * Avoids GIL limitations for cPython(instead, it's more of a communication model for IPC)
 * Child processes are interruptible/killable
 * Python multiprocessing module includes useful abstractions with an interface much like threading.
+## What is multithreading ?
+The ability of a process to execute multiple threads parallelly is called multithreading. Ideally, multithreading can significantly improve the performance of any program. And Python multithreading mechanism is pretty user-friendly, which you can learn quickly.
+
+    Python offers two modules to implement threads in programs.
+    
+    <thread> module 
+    <threading> module
+### Pros
+* Resource Sharing
+* Responsiveness
+* Utilization of Multiprocessor Architecture
+* Economy
+### Difference
+
+![Thread vs process](https://user-images.githubusercontent.com/85961223/146673128-0f5fb9aa-d7fb-48df-a367-c997ff29d295.jpg)
+
 
 ### Thank you Saarthi.AI and Team. 
-These tasks are like bit challenging and curious. I learnt so many things during the assignment and Rasa execution.Whether I get select or not in the interview process, I don't know but my journey towards Chatbot creation has been started. I will try to apply and develop Chatbots in various field's using AI/ML and Python.
+These tasks are like bit challenging and curious. I learnt so many things during the assignment and Rasa execution.Whether I get select or not in the interview process, I don't know but my journey towards Chatbot creation has been started. I will try to apply in different domain and develop Chatbots in various field's using AI/ML and Python.
 
