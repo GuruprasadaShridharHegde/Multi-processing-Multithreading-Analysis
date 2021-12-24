@@ -37,5 +37,5 @@ The ability of a process to execute multiple threads parallelly is called multit
 
 
 ### Thank you Saarthi.AI and Team. 
-These tasks are like bit challenging and curious. I learnt so many things during the assignment and Rasa execution.Whether I get select or not in the interview process, I don't know but my journey towards Chatbot creation has been started. I will try to apply in different domain and develop Chatbots in various field's using AI/ML and Python.
+These tasks are like bit challenging and curious. I learnt so many things during the assignment and Rasa execution. Interview was conducted in a very smooth manner by Sameer Sinha Sir!! Looking forward to work under his team and guidance. My journey towards Chatbot creation has been started. I will try to apply in different domain and develop Chatbots in various field's using AI/ML and Python.
 
