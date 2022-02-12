@@ -1,5 +1,5 @@
 # Multi-processing-Multithreading-Analysis
----------------------------------------------------------------------------------------------------- ## Task given by sameer.sinha@saarthi.ai
+---------------------------------------------------------------------------------------------------- ### Task given by sameer.sinha@saarthi.ai
 ## What is Multi-Processing ?
 Hello Sir, before going to start the approach what you had given during the interview I would like to brief about Multiprocessing. Multiprocessing is a package that supports spawning processes using an API similar to the threading module. Due to this, the multiprocessing module allows the programmer to fully leverage multiple processors on a given machine. 
 * Multiprocessing refers to the ability of a system to support more than one processor at the same time. Applications in a multiprocessing system are broken to smaller routines that run independently. The operating system allocates these threads to the processors improving performance of the system.
