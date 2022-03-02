@@ -11,7 +11,7 @@ Hello Sir, before going to start the approach what you had given during the inte
   3. Lock
  * If I take the example of to find the perfect number between 1 to 10000 would be easy, but if i want to find perfect numbers between 1 to 30000000 then it may take more than one year and also consumes huge computer resources. So as a solution for this we have a multiprocess and multi threading package in python. Let us know what are they:
  ![Process vs thread](https://user-images.githubusercontent.com/85961223/146666604-7eceee1d-d41b-480b-994a-68726b93ecf8.png)
- ### Pros
+ ### Pros 
 * Less time consuming
 * Separate memory space
 * Code is usually straightforward
@@ -19,7 +19,7 @@ Hello Sir, before going to start the approach what you had given during the inte
 * Avoids GIL limitations for cPython(instead, it's more of a communication model for IPC)
 * Child processes are interruptible/killable
 * Python multiprocessing module includes useful abstractions with an interface much like threading.
-## What is multithreading ?
+## What is multithreading ? 🤔
 The ability of a process to execute multiple threads parallelly is called multithreading. Ideally, multithreading can significantly improve the performance of any program. And Python multithreading mechanism is pretty user-friendly, which you can learn quickly.
 
     Python offers two modules to implement threads in programs.
