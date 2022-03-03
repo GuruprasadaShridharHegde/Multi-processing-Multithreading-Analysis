@@ -134,6 +134,6 @@ This module is the high-level implementation of threading in python and the de f
 ![Multithread4](https://user-images.githubusercontent.com/85961223/153414828-a2e8798f-f615-44e6-9f32-bfd991d14c97.png)
 
 
-### Thank you Saarthi.AI and Team. 
+### Thank you Saarthi.AI and Team. 🤗
 These tasks are like bit challenging and curious. I learnt so many things during the assignment and Rasa execution. Interview was conducted in a very smooth manner by Sameer Sinha Sir!! Looking forward to work under his team and guidance. My journey towards Chatbot creation has been started. I will try to apply in different domain and develop Chatbots in various field's using AI/ML and Python.
 
